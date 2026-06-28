@@ -1,6 +1,6 @@
 # 70,000 free classic books
 
-[![CI](https://github.com/JJ-Dynamite/gutenberg-library/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/gutenberg-library/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-gutenberg-library/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-gutenberg-library/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 70,000 free classic books - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/gutenberg-library.git
+git clone https://github.com/JJ-Dynamite/faang-gutenberg-library.git
 cd gutenberg-library
 
 # Install backend dependencies

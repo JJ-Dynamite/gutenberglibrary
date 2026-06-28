@@ -1,4 +1,4 @@
-# Contributing to gutenberg-library
+# Contributing to faang-gutenberg-library
 
 Thank you for your interest in contributing!
 
