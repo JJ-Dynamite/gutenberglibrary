@@ -1,11 +1,11 @@
 [package]
-name = "faang-gutenberg-library-backend"
+name = "gutenberglibrary-backend"
 version = "0.1.0"
 edition = "2021"
 description = "70,000 free classic books - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-gutenberg-library"
+repository = "https://github.com/JJ-Dynamite/gutenberglibrary"
 
 [dependencies]
 axum = "0.7"
